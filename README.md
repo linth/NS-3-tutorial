@@ -18,10 +18,15 @@ NS-3-tutorial
 > > [NS3 tutorial (5) - NetAnim installation (Animation)] (http://zhua0404.blogspot.tw/2014/08/ns3-tutorial-5-netanim-installation.html) <br />
 > > > 安裝NS-3動畫，主要是針對模擬完後，可觀察網路行為之工具。<br />
 
-<br />
+
 
 > NS-3範例篇
 -------------
-> > 
-> > 
-> > 
+> > [NS3 example (1) - Wire network (first.cc or first.py)] (http://zhua0404.blogspot.tw/2014/08/ns3-example-1-wire-network-firstcc-or.html) <br />
+> > > first.cc範例
+
+> > [NS3 example (2) - second.cc] (http://zhua0404.blogspot.tw/2014/08/ns3-example-2-secondcc.html) <br />
+> > > second.cc範例
+
+> > [NS3 example (3) - third.cc] (http://zhua0404.blogspot.tw/2014/08/ns3-example-3-thirdcc.html) <br />
+> > > third.cc範例
