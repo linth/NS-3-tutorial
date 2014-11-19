@@ -23,10 +23,10 @@ NS-3-tutorial
 > NS-3範例篇
 -------------
 > > [NS3 example (1) - Wire network (first.cc or first.py)] (http://zhua0404.blogspot.tw/2014/08/ns3-example-1-wire-network-firstcc-or.html) <br />
-> > > first.cc範例
+> > > first.cc範例，主要是針對有線點對點的範例檔。
 
 > > [NS3 example (2) - second.cc] (http://zhua0404.blogspot.tw/2014/08/ns3-example-2-secondcc.html) <br />
-> > > second.cc範例
+> > > second.cc範例，主要針對不同網段下的有線點對點傳輸。
 
 > > [NS3 example (3) - third.cc] (http://zhua0404.blogspot.tw/2014/08/ns3-example-3-thirdcc.html) <br />
-> > > third.cc範例
+> > > third.cc範例，主要針對當有無線/有線節點要互相溝通或傳輸的情境。
