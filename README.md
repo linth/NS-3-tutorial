@@ -12,7 +12,7 @@ NS-3-tutorial
 > > [NS3 tutorial (3) - Click installation] (https://github.com/linth/NS-3-tutorial/tree/master/NS-3-tutorial_3) <br />
 > > > 安裝Click的必要步驟。<br />
 
-> > [NS3 tutorial (4) - install OpenFlow] (http://zhua0404.blogspot.tw/2014/07/ns3-tutorial-4-install-openflow.html) <br />
+> > [NS3 tutorial (4) - install OpenFlow] (https://github.com/linth/NS-3-tutorial/tree/master/NS-3-tutorial_4) <br />
 > > > 安裝NS-3 OpenFlow的步驟。<br />
 
 > > [NS3 tutorial (5) - NetAnim installation (Animation)] (http://zhua0404.blogspot.tw/2014/08/ns3-tutorial-5-netanim-installation.html) <br />
