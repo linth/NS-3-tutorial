@@ -9,7 +9,7 @@ NS-3-tutorial
 > > [NS3 tutorial (2) - NS3 visualization] (https://github.com/linth/NS-3-tutorial/tree/master/NS-3-tutorial_2) <br />
 > > > 安裝NS-3的視覺化工具。<br />
 
-> > [NS3 tutorial (3) - Click installation] (http://zhua0404.blogspot.tw/2014/07/ns3-tutorial-3-click-installation.html) <br />
+> > [NS3 tutorial (3) - Click installation] (https://github.com/linth/NS-3-tutorial/tree/master/NS-3-tutorial_3) <br />
 > > > 安裝Click的必要步驟。<br />
 
 > > [NS3 tutorial (4) - install OpenFlow] (http://zhua0404.blogspot.tw/2014/07/ns3-tutorial-4-install-openflow.html) <br />
