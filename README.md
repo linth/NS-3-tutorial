@@ -15,7 +15,7 @@ NS-3-tutorial
 > > [NS3 tutorial (4) - install OpenFlow] (https://github.com/linth/NS-3-tutorial/tree/master/NS-3-tutorial_4) <br />
 > > > 安裝NS-3 OpenFlow的步驟。<br />
 
-> > [NS3 tutorial (5) - NetAnim installation (Animation)] (http://zhua0404.blogspot.tw/2014/08/ns3-tutorial-5-netanim-installation.html) <br />
+> > [NS3 tutorial (5) - NetAnim installation (Animation)] (https://github.com/linth/NS-3-tutorial/blob/master/NS-3-tutorial_5/README.md) <br />
 > > > 安裝NS-3動畫，主要是針對模擬完後，可觀察網路行為之工具。<br />
 
 
