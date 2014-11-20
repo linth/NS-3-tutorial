@@ -3,7 +3,7 @@ NS-3-tutorial
 
 > NS-3安裝篇
 ----------
-> > [NS3 tutorial (1) - NS3 installation in Ubuntu 12.04] (http://zhua0404.blogspot.tw/2014/07/ns3-tutorial-1-ns3-installation-in.html#more) <br />
+> > [NS3 tutorial (1) - NS3 installation in Ubuntu 12.04] (https://github.com/linth/NS-3-tutorial/tree/master/NS-3-tutorial_1) <br />
 > > > 在Linux Ubuntu 12.04中安裝NS-3的必要步驟。<br />
 
 > > [NS3 tutorial (2) - NS3 visualization] (http://zhua0404.blogspot.tw/2014/07/ns3-tutorial-2-ns3-visualization.html) <br />
