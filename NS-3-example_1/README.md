@@ -16,6 +16,8 @@ NS3 example (1) - Wire network (first.cc or first.py)
 ------------
 http://zhua0404.blogspot.tw/2014/08/ns3-example-1-wire-network-firstcc-or.html
 
+分析：
+-------------
 > 程式碼大致上分類2個項目：
 > > Container類別：包括有
 > > > 1. Node Container
