@@ -13,8 +13,8 @@ NS3 example (2) - second.cc
 
 步驟3：模擬結果
 -----------------
-    > [http://zhua0404.blogspot.tw/2014/08/ns3-example-2-secondcc.html]
-    > [http://zhua0404.blogspot.tw/2014/08/ns3-example-2-secondcc.html]
+http://zhua0404.blogspot.tw/2014/08/ns3-example-2-secondcc.html
+http://zhua0404.blogspot.tw/2014/08/ns3-example-2-secondcc.html
 
 分析
 ---------------
