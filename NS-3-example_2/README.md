@@ -11,6 +11,11 @@ NS3 example (2) - second.cc
 ---------------
     > ./waf --run scratch/second
 
+步驟3：模擬結果
+-----------------
+    > http://zhua0404.blogspot.tw/2014/08/ns3-example-2-secondcc.html
+    > http://zhua0404.blogspot.tw/2014/08/ns3-example-2-secondcc.html
+
 分析
 ---------------
 > 如果要建置不同網段下的有線網路應該要如何處理，大致上需要注意的部份有：
