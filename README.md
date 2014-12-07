@@ -18,7 +18,8 @@ NS-3-tutorial
 > > [NS3 tutorial (5) - NetAnim installation (Animation)] (https://github.com/linth/NS-3-tutorial/blob/master/NS-3-tutorial_5/README.md) <br />
 > > > 安裝NS-3動畫，主要是針對模擬完後，可觀察網路行為之工具。<br />
 
-
+> > [NS3 tutorial (6) - Using the Logging module] () <br />
+> > > 針對執行script時，可以印出所需的資訊。
 
 > NS-3範例篇
 -------------
