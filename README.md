@@ -21,6 +21,9 @@ NS-3-tutorial
 > > [NS3 tutorial (6) - Using the Logging module] () <br />
 > > > 針對執行script時，可以印出所需的資訊。
 
+> > [NS3 tutorial (7) - ] () <br />
+> > > 
+
 > NS-3範例篇
 -------------
 > > [NS3 example (1) - Wire network (first.cc or first.py)] (http://zhua0404.blogspot.tw/2014/08/ns3-example-1-wire-network-firstcc-or.html) <br />
