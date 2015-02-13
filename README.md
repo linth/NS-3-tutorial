@@ -21,8 +21,8 @@ NS-3-tutorial
 > > [NS3 tutorial (6) - Using the Logging module] () <br />
 > > > 針對執行script時，可以印出所需的資訊。
 
-> > [NS3 tutorial (7) - Using the Command Line Arguments] () <br />
-> > > NS-3提供一個機制去解析command line的參數和自動設置的local和global參數。
+> > [NS3 tutorial (7) - ] () <br />
+> > > 
 
 > NS-3範例篇
 -------------
